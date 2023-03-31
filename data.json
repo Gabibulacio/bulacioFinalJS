@@ -1,0 +1,109 @@
+[
+    {
+        "id": 1,
+        "nombre": "Dublin",
+        "precio": 4500,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/936/990/products/c7107065-eb0d-46ba-8c0a-5b451566a52b1-554eb26560abc147dd16699358569842-640-0.jpeg", 
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre" : " Mia",
+        "precio": 8600,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/936/990/products/ae20cd64-771c-40dd-95dc-aab7bb00e248-3e09251963adaaa64416587943562509-640-0.jpeg",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Lola",
+        "precio": 6000,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/936/990/products/d14153b5-3a2f-4664-a2a7-9b2848a7a8291-d9b1132f89986e651016769082600109-1024-1024.webp",
+        "cantidad": 1
+    },    
+    
+    {
+        "id": 4,
+        "nombre": "Nevada",
+        "precio": 6000,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/936/990/products/01ae7b6c-82ef-47e8-ad18-a2fc749023bc1-91168e35cce53a543f16780359048209-1024-1024.webp",
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "nombre": " texas",
+        "precio": 4500,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/936/990/products/36843372-3c5f-4635-b7f9-98821cb8cfc7-2f5a4560a91178a48516631876934082-640-0.jpeg", 
+        "cantidad": 1
+    },
+    {
+        "id": 6,
+        "nombre" : "Key",
+        "precio": 6000,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/936/990/products/40e47d70-338a-406a-b6f5-04cc167ee3e01-19b145426501f77eb516788859835514-640-0.webp",
+        "cantidad": 1
+    },
+    {
+        "id": 7,
+        "nombre": " Gina",
+        "precio": 12000,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/936/990/products/575509ef-a9bd-43c1-8a2e-38cd2f1fca441-2254ec6a9995d1151f16771038259776-640-0.webp",
+        "cantidad": 1
+    },    
+    {
+        "id": 8,
+        "nombre": "Eloy",
+        "precio": 7500,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/936/990/products/2d901f92-7d8d-48c3-90ff-40699ddf99d8-daeaf8ad9999ec313616618092306618-640-0.jpeg",
+        "cantidad": 1
+    },
+    {
+        "id": 9,
+        "nombre": "Caiman",
+        "precio": 4500,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/936/990/products/05698ec4-534d-4670-b674-4c50d869bfd31-3ed12b95515c3d3bfd16700779520688-640-0.jpeg", 
+        "cantidad": 1
+    },
+    {
+        "id": 10,
+        "nombre" : "Brooklyn",
+        "precio": 8500,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/936/990/products/f371bd07-8d43-4d5d-9a4b-aab2f4fef97e1-fc545f345ee2ad3ecb16771031471458-640-0.webp",
+        "cantidad": 1
+    },
+    {
+        "id": 11,
+        "nombre": "Rumy",
+        "precio": 11000,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/936/990/products/bb5a9820-7fcd-41a5-a9b4-713486bc6ce6-f91a01a7e93f73c12116625563190508-640-0.jpeg",
+        "cantidad": 1
+    },    
+    {
+        "id": 12,
+        "nombre": "Olivia",
+        "precio": 9000,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/936/990/products/183c5adb-7fc0-4702-94f5-5d84fd5115511-377fc376a789e9fd4816788081458450-640-0.webp",
+        "cantidad": 1
+    },
+    {
+        "id": 10,
+        "nombre" : "Andy",
+        "precio": 8500,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/936/990/products/7c6eab15-40e6-4a2f-b3c3-3daf45f0960f1-d1e6a80e78f83c421316771030916840-640-0.webp",
+        "cantidad": 1
+    },
+    {
+        "id": 11,
+        "nombre": "Mantra",
+        "precio": 11000,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/936/990/products/524981b1-1052-4a91-8cdc-b29e62850b521-0c6688683963426ac816780681626011-640-0.webp",
+        "cantidad": 1
+    },    
+    {
+        "id": 12,
+        "nombre": "Dallas",
+        "precio": 9500,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/936/990/products/56ff3d1b-0a30-4976-a608-e32e2ab1150d1-277f3b4145b92954bf16771040697685-640-0.webp",
+        "cantidad": 1
+    }
+
+]
